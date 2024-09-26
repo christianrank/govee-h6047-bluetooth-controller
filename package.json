@@ -1,0 +1,15 @@
+{
+  "name": "govee-controller",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "npx tsx index"
+  },
+  "dependencies": {
+    "@abandonware/noble": "^1.9.2-25",
+    "@types/node": "^22.7.3",
+    "dotenv": "^16.4.5"
+  }
+}
