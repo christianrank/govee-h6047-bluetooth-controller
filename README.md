@@ -1,6 +1,6 @@
 # govee-h6047-bluetooth-controller
 
-Small simple script that can do one thing: Put my Govee H6047 Light Bars (and the linked Govee H61A0 LED Strip) into Music DreamView mode with aux input.
+Small and simple script that can do one thing: Put my Govee H6047 Light Bars (and the linked Govee H61A0 LED Strip) into Music DreamView mode with aux input.
 
 Hacked together in 3h because the app somehow stopped working for this use-case after an update that dropped the headphone music input button (by mistake I guess).
 
