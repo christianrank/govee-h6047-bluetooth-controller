@@ -1,4 +1,4 @@
-# govee-controller
+# govee-h6047-bluetooth-controller
 
 Small simple script that can do one thing: Put my Govee H6047 Light Bars (and the linked Govee H61A0 LED Strip) into Music DreamView mode with aux input.
 
@@ -10,6 +10,7 @@ Hacked together in 3h because the app somehow stopped working for this use-case 
 3. Start it again, done
 
 # Resources
-- https://www.apkmirror.com/apk/govee/govee-home/govee-home-6-2-40-release/ (still working on this one)
+- https://www.apkmirror.com/apk/govee/govee-home/govee-home-6-2-40-release/  
+  (feature is still working on this version, so I used it for reverse engineering)
 - https://www.youtube.com/watch?v=NIBmiPtCDdM
 - https://github.com/bwp91/homebridge-govee
